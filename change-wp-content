@@ -1,0 +1,6 @@
+//Define new directory path
+define ('WP_CONTENT_FOLDERNAME', 'New Folder Name');
+
+//Define new directory URL
+define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] . '/');
+define('WP_CONTENT_URL','New Folder Name');
