@@ -1,0 +1,2 @@
+# wordpress
+Debugging on WordPress
